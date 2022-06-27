@@ -1,2 +1,2 @@
 #!/bin/bash
-change dir_holberton to my_dir
+mkdir -m 751 dir_holberton
